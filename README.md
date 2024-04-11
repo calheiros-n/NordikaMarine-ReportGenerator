@@ -20,10 +20,13 @@ Convenience Redefined
 
 Experience unparalleled convenience with Nordika Marine Report. Whether you're on-site or in the office, generating service reports is now a hassle-free process. Simply input the required information, and let Nordika Marine Report take care of the rest.
 
-## System Architecture Diagram
+## System Pages
 
-![Nordika Marine Reports Architecture System]()
+![Nordika Marine Reports Architecture System](https://i.ibb.co/85d9w3g/Service-Description.png)
 
+## System Pdf FIle generated
+
+![Nordika Marine Report]()
 
 ## Features
 
@@ -51,7 +54,7 @@ Nordika Marine Report revolutionizes the service reporting process with its inno
 - **Web Platform**: Crafted with Dart to deliver a dynamic and responsive web interface for enhanced accessibility.
 - **Backend**: Powered by Firebase database for robust data storage and real-time synchronization.
 
-![Nordika Marine Report Mac](https://i.ibb.co/TtnGdFq/Design-sem-nome-25.png)
+![Nordika Marine Report Mac]()
 
 
 ## Contact Information
