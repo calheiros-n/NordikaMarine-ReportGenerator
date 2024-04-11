@@ -1,0 +1,47 @@
+name: nreport
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+
+environment:
+  sdk: '>=3.1.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.6
+  image_picker: ^1.0.7
+  open_file: ^3.3.2
+  path_provider: ^2.1.2
+  pdf: ^3.10.4
+  universal_html: ^2.2.4
+  universal_io: ^2.2.2
+  flutter_launcher_icons: ^0.13.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter_launcher_icons:
+  android: true
+  image_path_android: "assets/icons/1024.png"
+  ios: true
+  image_path_ios: "assets/icons/1024.png"
+  web: true
+  image_path_web: "assets/icons/1024.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/icons/icon.png
+    - assets/icons/1024.png
+  fonts:
+    - family: Baloo2
+      fonts:
+        - asset: assets/fonts/Baloo2-VariableFont_wght.ttf
+    - family: Arial
+      fonts:
+        - asset: assets/fonts/arial.ttf
